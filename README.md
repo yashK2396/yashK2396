@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @yashK2396
-- 👀 I’m keen on learning about Software \ Web Development and DSA 
-- 🌱 I’m currently learning C & C++
+This is @yashK2396. Currently learning about C Programming.
 - 📫 How to reach me: (1) [LinkedIn](https://www.linkedin.com/in/yash-kumar-a1108731a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba1%2F9k4xKTxi%2FKpVkF8Driw%3D%3D) (2) Email: kumar.yash2203096@gmail.com
 - 😄 Pronouns: he/him
 
