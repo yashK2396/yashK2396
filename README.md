@@ -1,6 +1,6 @@
 ✋ This is @yashK2396. [he/him] 
 
-Currently learning C.  
+Currently learning to code in C.  
 
 [LinkedIn](https://www.linkedin.com/in/yash-kumar-a1108731a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba1%2F9k4xKTxi%2FKpVkF8Driw%3D%3D)
 
